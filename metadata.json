@@ -1,0 +1,5 @@
+{
+  "name": "SmartShelfX",
+  "description": "AI-Based Inventory Forecast & Auto-Restock system. Optimizes stock levels using AI-powered demand forecasting, real-time tracking, and automated purchase orders.",
+  "requestFramePermissions": []
+}
